@@ -1,3 +1,7 @@
-p{
-    color: red;
+
+.img{
+    text-align: center;
+}
+img{
+    height: auto;
 }
